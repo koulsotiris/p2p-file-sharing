@@ -1,6 +1,7 @@
 Collaborative P2P File Sharing with Distributed Downloading
 
 Overview
+
 This project implements a **peer-to-peer (P2P) file sharing system** with a **collaborative downloading mechanism**. It allows peers to efficiently share and download files while a central tracker manages file distribution and peer coordination.
 
 Features

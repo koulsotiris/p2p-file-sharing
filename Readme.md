@@ -1,10 +1,10 @@
-#Collaborative P2P File Sharing with Distributed Downloading
+# Collaborative P2P File Sharing with Distributed Downloading
 
-##Overview
+## Overview
 
 This project implements a **peer-to-peer (P2P) file sharing system** with a **collaborative downloading mechanism**. It allows peers to efficiently share and download files while a central tracker manages file distribution and peer coordination.
 
-##Features
+## Features
 - Peer-to-Peer File Sharing: Peers can share and request files from other peers.
 - Collaborative Downloading: Peers can download different segments of a file from multiple sources simultaneously.
 - Tracker-Based Coordination: A central tracker keeps track of available files and connected peers.
@@ -13,7 +13,7 @@ This project implements a **peer-to-peer (P2P) file sharing system** with a **co
 - Resilient Downloading: Retries download requests in case of failures.
 - Dynamic Peer Discovery: Peers can join and leave dynamically, with tracking updates.
 
-##Technologies Used
+## Technologies Used
 - Java (Core Language)
 - TCP Sockets (Networking & Peer Communication)
 - Threads & Concurrency (Efficient handling of multiple requests)
